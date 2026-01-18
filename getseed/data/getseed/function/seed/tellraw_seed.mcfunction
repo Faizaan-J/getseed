@@ -1,0 +1,1 @@
+$tellraw @s [{"translate":"commands.seed.success", "with":[""]}, {"text": "["}, {"text": "$(seed)", "click_event": {"action": "copy_to_clipboard", "value": "$(seed)"}, "hover_event": {"action": "show_text", "value":{"translate":"chat.copy.click"}}, "color": "green"}, {"text": "]", "color": "white"}]

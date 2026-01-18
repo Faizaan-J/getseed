@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "Get seed with a trigger command",
+        "min_format":18,
+        "max_format":94,
+	"supported_formats": [18, 94],
+	"pack_format": 94
+    }
+}
